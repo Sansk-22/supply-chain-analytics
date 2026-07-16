@@ -93,5 +93,5 @@ jupyter notebook notebooks/supply_chain_analysis.ipynb
 ---
 
 ## Author
-**Sansu** | B.Tech Mechanical Engineering, MANIT Bhopal  
+**Sanskriti Kesharwani** | B.Tech Mechanical Engineering, MANIT Bhopal  
 Aspiring Data & Business Analyst | Supply Chain & Operations Analytics
